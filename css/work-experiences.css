@@ -37,7 +37,7 @@ nav a {
 }
 
 img {
-    width: 100%;
+    width: 40%;
 }
 
 @media screen and (prefers-reduced-motion: reduce) {
