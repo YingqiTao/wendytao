@@ -36,6 +36,10 @@ nav a {
     text-decoration: none;
 }
 
+img {
+    width: 100%;
+}
+
 @media screen and (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
